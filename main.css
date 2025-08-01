@@ -1,0 +1,79 @@
+/* title */
+.navbar-collapse{
+     position: absolute;
+    right: 20px; 
+    
+}
+#title{
+    background-color: rgb(89, 206, 104);
+    color: #fff;
+}
+.welcome{
+    padding: 5% 15%;
+    text-align: center;
+}
+.nbar{
+    color: #fff;
+}
+
+/* features */
+#features{
+    padding: 7% 15%;
+    text-align: center;
+}
+.feature-i{
+    font-size: 3rem;
+    color:  rgba(16, 240, 46, 0.363);
+}
+.feature:hover{
+    color: rgb(89, 206, 104) ;
+}
+
+/* testimonials */
+#testimonials{
+    background-color: rgba(16, 240, 46, 0.363);
+    color: #fff;
+    text-align: center;
+    font-size: 1rem;
+}
+
+.testimonials-row{
+    padding: 7% 15%;
+}
+h2{
+    font-size: 30px;
+}
+
+/* pricing */
+#pricing{
+    text-align: center;
+    padding: 7% 15%;
+}
+
+/* call to action */
+#cta{
+    background-color: rgba(16, 240, 46, 0.363);
+    color: #fff;
+    text-align: center;
+    padding: 7% 15%;
+}
+.order-button{
+    margin: 20px 10px;
+}
+
+/* footer */
+#footer{
+    padding: 7% 5% 1%;
+    text-align: center;
+}
+.footer-i{
+    margin: 15px;
+    color:  rgba(14, 100, 25, 0.959);
+    font-size: 20px;
+}
+.footer-ul{
+    display: inline-block;
+}
+.header-wrapper{
+    background-image: url("images/header.svg");
+}
